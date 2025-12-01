@@ -1,6 +1,9 @@
 package Chapter2;
 
 public class task2 {
+
+
+    protected static int j = 10;
     public static void main(String[] args) {
 
         byte o = 0;
